@@ -7,3 +7,5 @@ if(a):
 elif(9 > 8):
     user = input("Enter the message")
     print(user)
+if(True and True):
+    print("True")
